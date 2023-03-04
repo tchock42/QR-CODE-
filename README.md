@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/tchock42/QR-CODE-)
+
 
 ## My process
 I saw the reference image and made it in Visual studio Code
@@ -40,28 +40,16 @@ HTML and CSS
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+img{
+    max-width: 90%;
+    border-radius: 1rem;
+}
+.codigo{
+    display: block;
+    margin: 3rem auto 5rem auto;  
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 I need to improve my skills, because i feel that I lasted too time in this project.
@@ -75,7 +63,7 @@ I need to improve my skills, because i feel that I lasted too time in this proje
 ## Author
 
 - Website - [Jacob Gomez Carrillo](https://github.com/tchock42)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tchock42)
+- Frontend Mentor - [@tchock42](https://www.frontendmentor.io/profile/tchock42)
 
 
 
